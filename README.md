@@ -3,7 +3,7 @@
 
 # <p align="center">Bilheteira circo</p>
 
-![hotelaria](https://user-images.githubusercontent.com/92939227/224496600-267336b1-5ea8-4682-b761-7b737858ccbf.png)
+![bilheteria](https://user-images.githubusercontent.com/92939227/224502468-cec38fc0-2e04-4e3c-8adb-b2dafa67158a.png)
 
 ---
 
@@ -40,10 +40,6 @@
 ```git clone https://github.com/Xremix34/Java-Projeto-Bilheteira-de-Circo.git```
 - <p>Abrir o netbeans.</p>
 - <p>Ir em File -> Open Project e carregar a pasta Projeto.</p>
-- <p>Depois de carregado ir na pasta Libraries com o botão do lado direito escolhendo a opção Add JAR/Folder..</p>
-- <p>Selecionar o ficheiro myinputs.jar dentro da pasta resources e escolher o path como caminho absoluto.</p>
-- <p>Selecionar o package Hotelaria e depois o ficheiro Escola.java</p>
-- <p>Fazer Run Project (seta verde) ou (F6 do teclado)</p>. 
 ---
 
 ## Autores
