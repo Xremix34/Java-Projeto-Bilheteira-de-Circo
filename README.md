@@ -37,7 +37,7 @@
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone https://github.com/Xremix34/Java-Projeto-Gestao-de-Hotelaria.git```
+```git clone https://github.com/Xremix34/Java-Projeto-Bilheteira-de-Circo.git```
 - <p>Abrir o netbeans.</p>
 - <p>Ir em File -> Open Project e carregar a pasta Projeto.</p>
 - <p>Depois de carregado ir na pasta Libraries com o botão do lado direito escolhendo a opção Add JAR/Folder..</p>
