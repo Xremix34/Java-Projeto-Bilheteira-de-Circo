@@ -1,6 +1,3 @@
-# Projeto Bilheteira circo
- Projeto de Bilheteria para circo Java a Orientação aos Objetos
-
 # <p align="center">Bilheteira circo</p>
 
 ![bilheteria](https://user-images.githubusercontent.com/92939227/224502468-cec38fc0-2e04-4e3c-8adb-b2dafa67158a.png)
